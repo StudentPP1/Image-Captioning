@@ -17,8 +17,8 @@ class Preprocessing:
         self.start_seq = "startseq"
         self.end_seq = "endseq"
 
-        self.captions_file = "Dataset/Flickr dataset/captions.txt"
-        self.images_dir = "Dataset/Flickr dataset/Images"
+        self.captions_file = "Flickr dataset/captions.txt"
+        self.images_dir = "Flickr dataset/Images"
         self.save_dir = "Saves"
         self.features_dir = "Saves/features"
 
